@@ -21,6 +21,8 @@ The model is a **fully connected neural network** with the following layers:
 - `Dense` output layer with 10 neurons, Softmax activation  
 
 ---
+## MODEL ACCURACY 
+97%
 
 ## ⚙️ Requirements
 Install dependencies with:
