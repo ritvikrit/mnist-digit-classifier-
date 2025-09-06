@@ -24,9 +24,8 @@ The model is a **fully connected neural network** with the following layers:
 ## MODEL ACCURACY 
 The model achieved ~97% accuracy on the MNIST test dataset.
 
-Below is the confusion matrix showing how well the model performed across all digit classes (0–9):
 
-<img width="1058" height="607" alt="image" src="https://github.com/user-attachments/assets/38c75f7e-a465-47ce-9221-6911a24b72bd" />
+
 
 
 ## ⚙️ Requirements
